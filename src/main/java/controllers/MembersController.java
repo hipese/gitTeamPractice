@@ -13,7 +13,7 @@ public class MembersController extends HttpServlet {
 	
    
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-	
+		//아무도 모르게 업데이트하기;
 	}
 
 	
